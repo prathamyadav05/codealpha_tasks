@@ -1,4 +1,4 @@
-# codealpha_tasks
+# Full Stack Development 
 
 Welcome to my GitHub! Here you’ll find a showcase of some of the projects I’ve developed to explore and apply concepts in web development, backend architecture, and real-time communication. Each project demonstrates my ability to build scalable, interactive, and user-centric solutions.
 
